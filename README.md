@@ -1,2 +1,6 @@
 # hello-world
-Learning 
+
+Hi Humans!
+
+
+I Just need help. 
